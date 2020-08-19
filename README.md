@@ -17,6 +17,7 @@ or
 
 
 #example 1
+
 A = ( [6, 7, 3, 4, 11],
       [1, 3, 3, 4, 9], 
       [5, 7, 7, 8, 10],
@@ -28,7 +29,10 @@ B = ([3,4],
 Array B is part of Array A with all the elements in the correct order
 
 
+
+
 #example 2
+
 A = ( [6, 7, 3, 4, 11],
       [1, 3, 3, 4, 9], 
       [5, 7, 7, 8, 10],
