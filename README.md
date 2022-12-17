@@ -1,3 +1,8 @@
+
+There are 2 ways to solve this problem:
+1. FindArrayinArray - created by me (tested, it seems it works fine)
+2. seaarch_subarray - created by ChatGPT (not tested yet but looks good)
+
 # Find Array in Array
 Python code that checks if a given 2d array is part of another given 2d array
 
